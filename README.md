@@ -2,7 +2,7 @@
 
 Using Linear regression (and Feature Engineering) to predict insurance charges from a small dataset with features such as age, sex, BMI, number of children, smokers, and region
 
-##Description
+## Description
 - Downloaded from Kaggle, this dataset is small in size - with 1338 rows and 7 columns containing information collected by an insurance company.
 - This dataset was selected to showcase the concepts of linear regression and how sticking to the basics can transform the model to outperform expectations.
 - Prediction analysis has been done to predict the target - Insurance charges.
